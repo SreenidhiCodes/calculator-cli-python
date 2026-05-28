@@ -230,11 +230,8 @@ We then compile the dynamic bid increment as a multiple of:
 
 The next bid is placed only if the bid increment remains below a threshold value.
 
-Here, we set the threshold as:
+Here, we set the threshold as: 100
 
-[
-100
-]
 
 The next bid is calculated as:
 
